@@ -12,7 +12,7 @@ import numpy\
 import matplotlib.pyplot\
 import sklearn\
 import nltk\
-import gensim\
+import gensim
 
 4. Download the files of this github repository in the same folder python and the libraries were downloaded. 
 
