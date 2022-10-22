@@ -8,11 +8,11 @@ How to download and run our code:
 
 3. Make sure all libraries are downloaded, these include:
 
-3.1 import numpy_
-3.2 import matplotlib.pyplot_
-3.3 import sklearn_
-3.4 import nltk_
-3.5 import gensim_
+import numpy\
+import matplotlib.pyplot\
+import sklearn\
+import nltk\
+import gensim\
 
 4. Download the files of this github repository in the same folder python and the libraries were downloaded. 
 
