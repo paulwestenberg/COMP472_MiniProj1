@@ -1,6 +1,6 @@
 # COMP472_MiniProj1
 
-Github Repository: https://github.com/paulwestenberg/COMP472_MiniProj1
+Github Repository: https://github.com/paulwestenberg/COMP472_MiniProj1\
 COMP 472 - Mini Project #1 - Artificial Unintelligence team
 
 How to download and run our code:
