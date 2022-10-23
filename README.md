@@ -10,10 +10,10 @@ How to download and run our code:
 
 3. Make sure all libraries are downloaded, these include:
 
-numpy
-matplotlib.pyplot
-sklearn
-nltk
+numpy\
+matplotlib.pyplot\
+sklearn\
+nltk\
 gensim
 
 4. Download the files of this github repository in the same folder python and the libraries were downloaded.
